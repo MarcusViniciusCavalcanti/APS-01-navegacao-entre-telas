@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navegação Entre Telas</string>
+
+    <!-- String -->
+    <string name="sign_in">Sign In</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="welcome">Bem Vindo</string>
+
+    <string name="connected_from_server">Connected from server</string>
+    <string name="checked_credentials">Checked credentials</string>
+    <string name="err_msg_email">Emails is invalid</string>
+    <string name="err_msg_password">This field is required</string>
+    <string name="err_msg_email_is_empty">This field is required</string>
+</resources>

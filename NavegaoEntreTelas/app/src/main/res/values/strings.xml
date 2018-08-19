@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navegação Entre Telas</string>
+
+    <!-- String -->
+    <string name="sign_in">Acessar</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="connected_from_server">Estabelecendo conexão</string>
+    <string name="checked_credentials">Verificando suas credenciais</string>
+    <string name="err_msg_email">E-mails digita não é válido</string>
+    <string name="err_msg_password">Por favor digite sua senha</string>
+    <string name="err_msg_email_is_empty">Por favor digite seu e-mail</string>
+</resources>
