@@ -1,7 +1,7 @@
 # APS-01 Navegação Entre Telas
 APS-01 Curso de Dispositivos Moveis (  Sistemas para internet - UTFPR )
 
-## Cenário
+## Problema
 Ao iniciar uma nova activity, ela
 assume o primeiro plano. Clicando no botão
 voltar do android ( <- ) ela dá lugar à activity
